@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sophia.
 
 <!--
 **Xiaotou-Sophia/Xiaotou-Sophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+目前就职于腾讯新闻，是一名前端开发工程师；
+曾经供职于京东以及一家做技术方案的大型跨国公司。
